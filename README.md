@@ -37,11 +37,10 @@ cd Flix-Movie-Home-page-UI
 
 ## 👨‍💻 Author
 
-**Name:** *Ujjwal Kumar*
-📧 **Email:** [ujjwalkumar0514@gmail.com](mailto:ujjwalkumar0514@gmail.com)
-🐱 **GitHub:** [@ujjwalkumarsahni](https://github.com/ujjwalkumarsahni)
-🔗 **LinkedIn:** [linkedin.com/in/ujjwalkumarsahni](https://linkedin.com/in/ujjwalkumarsahni)
-
+**Name:** *Ujjwal Kumar*  
+**Email:** ujjwalkumar0514@gmail.com  
+**GitHub:** [github.com/ujjwalkumarsahni](https://github.com/ujjwalkumarsahni)  
+**LinkedIn:** [linkedin.com/in/ujjwalkumarsahni](https://linkedin.com/in/ujjwalkumarsahni)
 ---
 
 
